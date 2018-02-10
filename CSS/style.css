@@ -1,0 +1,38 @@
+	body {
+    background:#c7b39b url("../JPEG/fon.jpg");
+	background-size: cover;}
+	.aaa
+	{
+		color: #660066;
+		text-align: center;
+		font-size:24px;
+		font-weight: 600;
+	}
+	.header{
+		width:406px;
+		height:406px;
+		background-image: url("../PNG/ava.png");
+		background-size: cover;
+		float:right;
+	}
+	.content{
+		width:880px;
+		height:200px;		
+		float:left;
+	}
+	.table{
+		width:400px;
+		height:400px;		
+		margin:30px;
+	}
+	p
+	{
+	font-size: 120%;
+	font-family: 'Times New Roman', Times, serif; 
+    font-style: italic;
+	color: #330000
+	}
+	.footer{
+		width:600px;
+		height:130px;		
+		}
